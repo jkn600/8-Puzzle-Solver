@@ -1,0 +1,1 @@
+The order of numbers in (in.txt.) determines the initial and goal state.
