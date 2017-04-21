@@ -1,4 +1,4 @@
-#8 Puzzle Solver
+# 8 Puzzle Solver
 This project was built to solve the 8 Puzzle using A* as it is the algorithm I am most familiar
 with. It makes use of linked lists to form search trees, however my functions could use
 improvements. Main.cpp reads in data from in.txt, which provides an initial state and a goal
